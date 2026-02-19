@@ -414,7 +414,7 @@ if (!subnetBootstrap) {
 }
 
 console.log('');
-console.log('====================INTERCOM ====================');
+console.log('================= INTERALERT MESH ================');
 const msbChannel = b4a.toString(msbConfig.channel, 'utf8');
 const msbStorePath = path.join(msbStoresDirectory, msbStoreName);
 const peerStorePath = path.join(peerStoresDirectory, peerStoreNameRaw);
